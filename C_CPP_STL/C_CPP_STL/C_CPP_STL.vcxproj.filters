@@ -21,5 +21,11 @@
     <ClCompile Include="Dynamic_Memory_ex.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PointerArray.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dynamic_PointerArray.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
