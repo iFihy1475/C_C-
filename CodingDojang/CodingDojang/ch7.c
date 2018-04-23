@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// 자료형의 최댓값과 최솟값 정의
+#include <limits.h>
+
 int main()
 {
     char cChar; // 1Byte : -128 ~ 127
@@ -63,6 +66,29 @@ int main()
 
     printf("%d %u\n", cNum4, uNum4);
     printf("%d %u\n", cNum3, uNum3);
+    
+    // sizeof 표현식
+    // sizeof(자료형)
+    // sizeof(표현식)
+    int iNum3 = 0, size;
+
+    size = sizeof(iNum3);
+
+    printf("iNum3의 크기 : %d\n", size);
+    printf("int의 크기 : %d\n", sizeof(int));
+    printf("long의 크기 : %d\n", sizeof(long));
+    printf("long long의 크기 : %d\n", sizeof(long long));
+
+    // 자료형의 최솟값과 최댓값 표현
+    // 최솟값, 최댓값을 직접 넣으면 컴파일 에러 발생
+    
+    char cNum5 = CHAR_MAX;
+    short sNum5 = SHRT_MAX;
+    int iNum5 = INT_MAX;
+    long lNum5 = LONG_MAX;
+    long long llNum5 = LLONG_MAX;
+
+    printf("%d %d %d %ld %lld\n", cNum5, sNum5, iNum5, lNum5, llNum5);
 
     return 0; 
 }

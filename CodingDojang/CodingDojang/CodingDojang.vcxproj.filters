@@ -63,5 +63,38 @@
     <ClCompile Include="ch7.c">
       <Filter>Source Files\Ch7</Filter>
     </ClCompile>
+    <ClCompile Include="integer_max_overflow.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_min_underflow.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_stdint.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="ch7_7.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="ch7_8.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="ch7_9.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="ch7_10.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="ch7_11.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="ch7_12.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="ch7_13.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="ch7_14.c">
+      <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

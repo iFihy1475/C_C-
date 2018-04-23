@@ -1,16 +1,2 @@
-﻿  ch7.c
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(56): warning C4305: 'initializing': truncation from 'int' to 'unsigned char'
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(60): warning C4305: 'initializing': truncation from 'int' to 'char'
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(16): warning C4101: 'uLong': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(10): warning C4101: 'uShort': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(19): warning C4101: 'uuLong': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(7): warning C4101: 'uChar': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(13): warning C4101: 'uInt': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(12): warning C4101: 'iInt': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(6): warning C4101: 'sChar': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(9): warning C4101: 'sShort': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(5): warning C4101: 'cChar': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(18): warning C4101: 'llLong': unreferenced local variable
-c:\users\ifihy\desktop\git\c_c\codingdojang\codingdojang\ch7.c(15): warning C4101: 'lLong': unreferenced local variable
-  CodingDojang.vcxproj -> C:\Users\iFihy\Desktop\Git\C_C\CodingDojang\Debug\CodingDojang.exe
+﻿  CodingDojang.vcxproj -> C:\Users\iFihy\Desktop\Git\C_C\CodingDojang\Debug\CodingDojang.exe
   CodingDojang.vcxproj -> C:\Users\iFihy\Desktop\Git\C_C\CodingDojang\Debug\CodingDojang.pdb (Full PDB)
