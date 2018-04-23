@@ -19,11 +19,14 @@
     <Filter Include="Source Files\Ch4">
       <UniqueIdentifier>{738eb8d9-49b5-4b47-84a1-59556943b07f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Ch5">
+      <UniqueIdentifier>{1a8f66f3-a4e2-4350-95dd-8e133bb45cc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch6">
+      <UniqueIdentifier>{cc7a49f5-83a2-47e5-8981-4028d6e9edca}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello.c">
-      <Filter>Source Files\Ch3</Filter>
-    </ClCompile>
     <ClCompile Include="ch3_7.c">
       <Filter>Source Files\Ch3</Filter>
     </ClCompile>
@@ -33,11 +36,23 @@
     <ClCompile Include="ch3_9.c">
       <Filter>Source Files\Ch3</Filter>
     </ClCompile>
-    <ClCompile Include="ch3_10.cpp">
+    <ClCompile Include="ch5_5.c">
+      <Filter>Source Files\Ch5</Filter>
+    </ClCompile>
+    <ClCompile Include="ch3_10.c">
       <Filter>Source Files\Ch3</Filter>
     </ClCompile>
-    <ClCompile Include="ch4.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="ch3.c">
+      <Filter>Source Files\Ch3</Filter>
+    </ClCompile>
+    <ClCompile Include="ch4.c">
+      <Filter>Source Files\Ch4</Filter>
+    </ClCompile>
+    <ClCompile Include="ch5.c">
+      <Filter>Source Files\Ch5</Filter>
+    </ClCompile>
+    <ClCompile Include="ch5_6.c">
+      <Filter>Source Files\Ch5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
