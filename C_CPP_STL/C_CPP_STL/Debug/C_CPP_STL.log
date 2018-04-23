@@ -1,2 +1,19 @@
-﻿  C_CPP_STL.vcxproj -> C:\Users\iFihy\Desktop\Git\C_C\C_CPP_STL\Debug\C_CPP_STL.exe
+﻿  StringClassMake.cpp
+c:\users\ifihy\desktop\git\c_c\c_cpp_stl\c_cpp_stl\stringclassmake.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ifihy\desktop\git\c_c\c_cpp_stl\c_cpp_stl\stringclassmake.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ifihy\desktop\git\c_c\c_cpp_stl\c_cpp_stl\stringclassmake.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ifihy\desktop\git\c_c\c_cpp_stl\c_cpp_stl\stringclassmake.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ifihy\desktop\git\c_c\c_cpp_stl\c_cpp_stl\stringclassmake.cpp(47): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\ifihy\desktop\git\c_c\c_cpp_stl\c_cpp_stl\stringclassmake.cpp(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\ifihy\desktop\git\c_c\c_cpp_stl\c_cpp_stl\stringclassmake.cpp(59): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\ifihy\desktop\git\c_c\c_cpp_stl\c_cpp_stl\stringclassmake.cpp(65): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  C_CPP_STL.vcxproj -> C:\Users\iFihy\Desktop\Git\C_C\C_CPP_STL\Debug\C_CPP_STL.exe
   C_CPP_STL.vcxproj -> C:\Users\iFihy\Desktop\Git\C_C\C_CPP_STL\Debug\C_CPP_STL.pdb (Full PDB)
