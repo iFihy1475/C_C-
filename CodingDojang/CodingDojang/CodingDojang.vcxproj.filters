@@ -28,6 +28,12 @@
     <Filter Include="Source Files\Ch7">
       <UniqueIdentifier>{379eed83-7323-4682-868d-755fd710ab08}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Ch8">
+      <UniqueIdentifier>{e442f1bb-780d-4641-b649-573331b9886d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch9">
+      <UniqueIdentifier>{17cb862f-f97a-482e-8ff3-0e6a51548cc3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch3_7.c">
@@ -95,6 +101,48 @@
     </ClCompile>
     <ClCompile Include="ch7_14.c">
       <Filter>Source Files\Ch7</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8.c">
+      <Filter>Source Files\Ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="real_number_min_max.c">
+      <Filter>Source Files\Ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8_6.c">
+      <Filter>Source Files\Ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8_7.c">
+      <Filter>Source Files\Ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8_8.c">
+      <Filter>Source Files\Ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8_9.c">
+      <Filter>Source Files\Ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8_10.c">
+      <Filter>Source Files\Ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8_12.c">
+      <Filter>Source Files\Ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8_11.c">
+      <Filter>Source Files\Ch8</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9.c">
+      <Filter>Source Files\Ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9_5.c">
+      <Filter>Source Files\Ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9_6.c">
+      <Filter>Source Files\Ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9_7.c">
+      <Filter>Source Files\Ch9</Filter>
+    </ClCompile>
+    <ClCompile Include="ch9_8.c">
+      <Filter>Source Files\Ch9</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
