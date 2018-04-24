@@ -34,6 +34,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="StringClassMake.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="STL.c">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_ex1.cpp">
       <Filter>Source Files\STL</Filter>
     </ClCompile>
   </ItemGroup>
