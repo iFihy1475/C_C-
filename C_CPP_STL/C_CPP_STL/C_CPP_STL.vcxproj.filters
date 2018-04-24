@@ -51,5 +51,11 @@
     <ClCompile Include="deque_ex1.cpp">
       <Filter>Source Files\STL</Filter>
     </ClCompile>
+    <ClCompile Include="list.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="list_ex1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
