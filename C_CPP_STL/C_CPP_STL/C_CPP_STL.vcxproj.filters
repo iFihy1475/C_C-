@@ -72,5 +72,11 @@
     <ClCompile Include="multiset_ex1.cpp">
       <Filter>Source Files\STL</Filter>
     </ClCompile>
+    <ClCompile Include="Clock.cpp">
+      <Filter>Source Files\C_CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock_ex1.cpp">
+      <Filter>Source Files\C_CPP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
