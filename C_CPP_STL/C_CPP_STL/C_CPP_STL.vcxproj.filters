@@ -60,5 +60,17 @@
     <ClCompile Include="list_ex2.cpp">
       <Filter>Source Files\STL</Filter>
     </ClCompile>
+    <ClCompile Include="set.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="set_ex1.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="multiset.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="multiset_ex1.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
