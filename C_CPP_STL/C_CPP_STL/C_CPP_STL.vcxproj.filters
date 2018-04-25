@@ -55,7 +55,10 @@
       <Filter>Source Files\STL</Filter>
     </ClCompile>
     <ClCompile Include="list_ex1.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="list_ex2.cpp">
+      <Filter>Source Files\STL</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
