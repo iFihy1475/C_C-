@@ -52,6 +52,12 @@
     <Filter Include="Source Files\Ch15">
       <UniqueIdentifier>{d9bea8f2-7502-41b7-b438-7f32e76f03e8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Ch16">
+      <UniqueIdentifier>{c492f07c-3a56-4679-8bbc-aa683ffc3fbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch17">
+      <UniqueIdentifier>{ebebcde2-3057-43c1-a0e5-6f1a21ceb289}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch3_7.c">
@@ -224,6 +230,24 @@
     </ClCompile>
     <ClCompile Include="ch15_5.c">
       <Filter>Source Files\Ch15</Filter>
+    </ClCompile>
+    <ClCompile Include="ch16.c">
+      <Filter>Source Files\Ch16</Filter>
+    </ClCompile>
+    <ClCompile Include="ch16_4.c">
+      <Filter>Source Files\Ch16</Filter>
+    </ClCompile>
+    <ClCompile Include="ch16_5.c">
+      <Filter>Source Files\Ch16</Filter>
+    </ClCompile>
+    <ClCompile Include="ch17.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="ch17_7.c">
+      <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="ch17_8.c">
+      <Filter>Source Files\Ch17</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
