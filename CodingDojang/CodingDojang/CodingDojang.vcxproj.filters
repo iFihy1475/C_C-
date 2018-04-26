@@ -58,6 +58,15 @@
     <Filter Include="Source Files\Ch17">
       <UniqueIdentifier>{ebebcde2-3057-43c1-a0e5-6f1a21ceb289}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Ch18">
+      <UniqueIdentifier>{71aeff1c-d844-4955-a385-54223ac7e2a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch19">
+      <UniqueIdentifier>{c1c800a3-1417-4920-8b4f-d144887272e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ch20">
+      <UniqueIdentifier>{e1bc914d-00df-4db1-861e-9d97962bd726}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ch3_7.c">
@@ -248,6 +257,45 @@
     </ClCompile>
     <ClCompile Include="ch17_8.c">
       <Filter>Source Files\Ch17</Filter>
+    </ClCompile>
+    <ClCompile Include="ch18.c">
+      <Filter>Source Files\Ch18</Filter>
+    </ClCompile>
+    <ClCompile Include="ch18_7.c">
+      <Filter>Source Files\Ch18</Filter>
+    </ClCompile>
+    <ClCompile Include="ch18_8.c">
+      <Filter>Source Files\Ch18</Filter>
+    </ClCompile>
+    <ClCompile Include="ch18_9.c">
+      <Filter>Source Files\Ch18</Filter>
+    </ClCompile>
+    <ClCompile Include="ch18_10.c">
+      <Filter>Source Files\Ch18</Filter>
+    </ClCompile>
+    <ClCompile Include="ch19.c">
+      <Filter>Source Files\Ch19</Filter>
+    </ClCompile>
+    <ClCompile Include="ch19_4.c">
+      <Filter>Source Files\Ch19</Filter>
+    </ClCompile>
+    <ClCompile Include="ch19_5.c">
+      <Filter>Source Files\Ch19</Filter>
+    </ClCompile>
+    <ClCompile Include="ch20.c">
+      <Filter>Source Files\Ch20</Filter>
+    </ClCompile>
+    <ClCompile Include="ch20_6.c">
+      <Filter>Source Files\Ch20</Filter>
+    </ClCompile>
+    <ClCompile Include="ch20_7.c">
+      <Filter>Source Files\Ch20</Filter>
+    </ClCompile>
+    <ClCompile Include="ch20_8.c">
+      <Filter>Source Files\Ch20</Filter>
+    </ClCompile>
+    <ClCompile Include="ch20_9.c">
+      <Filter>Source Files\Ch20</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
