@@ -90,5 +90,29 @@
     <ClCompile Include="multimap_ex1.cpp">
       <Filter>Source Files\STL</Filter>
     </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="template2.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="template3.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="exception.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="exception2.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="pair.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="pair_ex1.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="pair_ex2.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
