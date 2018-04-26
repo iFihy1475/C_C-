@@ -78,5 +78,17 @@
     <ClCompile Include="Clock_ex1.cpp">
       <Filter>Source Files\C_CPP</Filter>
     </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="map_ex1.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="multimap.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="multimap_ex1.cpp">
+      <Filter>Source Files\STL</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
